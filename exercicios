@@ -10,9 +10,11 @@ Exercício 5
 Escreva um programa que solicite duas notas do usuário e apresente a média na tela da seguinte forma:
 "A média das notas [nota1] e [nota2] é [média]"
 Exercício 6
-Faça um programa que calcule a raiz quadrada de um número. O usuário deve inserir um número e o programa deve mostrar na tela o resultado da raiz quadrada do número inserido.
+Faça um programa que calcule a raiz quadrada de um número. O usuário deve inserir um número e o programa deve mostrar na tela o resultado da raiz 
+quadrada do número inserido.
 Exercício 19
-Escreva um programa que solicite o nome, o sobrenome e o salário atual de um funcionário. Ao fim, calcule seu novo salário considerando cenários hipotéticos, com os seguintes aumentos: 10%, 25%,30% e 50%. A mensagem na tela deverá seguir o seguinte padrão:
+Escreva um programa que solicite o nome, o sobrenome e o salário atual de um funcionário. Ao fim, calcule seu novo salário considerando cenários 
+hipotéticos, com os seguintes aumentos: 10%, 25%,30% e 50%. A mensagem na tela deverá seguir o seguinte padrão:
 "Olá, [nome] [sobrenome]"
 Exercício 20
 Escreva um programa que peça um número inteiro do usuário e calcule e imprima a tabuada deste número.
