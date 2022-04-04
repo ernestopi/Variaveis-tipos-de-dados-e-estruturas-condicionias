@@ -11,3 +11,21 @@ Escreva um programa que solicite duas notas do usuário e apresente a média na 
 "A média das notas [nota1] e [nota2] é [média]"
 Exercício 6
 Faça um programa que calcule a raiz quadrada de um número. O usuário deve inserir um número e o programa deve mostrar na tela o resultado da raiz quadrada do número inserido.
+Exercício 19
+Escreva um programa que solicite o nome, o sobrenome e o salário atual de um funcionário. Ao fim, calcule seu novo salário considerando cenários hipotéticos, com os seguintes aumentos: 10%, 25%,30% e 50%. A mensagem na tela deverá seguir o seguinte padrão:
+"Olá, [nome] [sobrenome]"
+Exercício 20
+Escreva um programa que peça um número inteiro do usuário e calcule e imprima a tabuada deste número.
+Exercício 21
+Faça um programa que solicite um número inteiro e mostre o seu valor absoluto.
+Dica: use a função built-in abs().
+Exercício 22
+Faça um programa que peça uma string ao usuário e mostre na tela a quantidade de caracteres.
+Dica: use a função built-in len() e trate a string com o método strip().
+Exercício 23
+Escreva um programa que peça um número inteiro do usuário e mostre se esse número é par ou ímpar. A mensagem na tela deverá seguir o seguinte formato:
+"O número [número] é [par/ímpar]"
+Exercício 24
+O Índice de Massa Corporal (IMC) é utilizado para mensurar o peso ideal de uma pessoa. Escreva um programa que peça o nome, a idade , o peso e a altura 
+do usuário. Ao final calcule e mostre o resultado do seu IMC e classifique este resultado de acordo com a regra a seguir.
+Lembre que: IMC=massa/(altura*altura)
